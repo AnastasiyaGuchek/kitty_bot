@@ -15,11 +15,11 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone git@github.com:Rederickmind/KittyBot.git
+git clone git@github.com:AnastasiyaGuchek/kitty_bot.git
 ```
 
 ```
-cd KittyBot
+cd kitty_bot
 ```
 
 **Установите и активируйте виртуальное окружение:**
@@ -34,7 +34,7 @@ python -m venv venv
     source venv/bin/activate
     ```
 
-* Если у вас windows
+* Если у вас Windows
 
     ```
     source venv/scripts/activate
